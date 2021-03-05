@@ -1,0 +1,20 @@
+#profilepic {
+	height: 100px;
+	width: 100px
+}
+
+figure{
+    display:block;
+    width: 150px;
+    float: left;
+    margin:0 10px 10px 0;
+    text-align: center;
+}
+
+figure img{
+    border:2px solid #8b8e4b;
+}
+
+figure button,p{
+    margin-bottom: 0;
+}
